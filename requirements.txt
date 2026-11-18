@@ -1,0 +1,12 @@
+yt-dlp
+faster-whisper
+pillow
+opencv-python-headless
+numpy
+python-dotenv
+requests
+openai
+anthropic
+google-api-python-client
+google-auth-oauthlib
+streamlit
